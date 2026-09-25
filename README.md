@@ -1,4 +1,4 @@
-# monitor-agent
+# Monitor Agent
 
 Lightweight Linux resource monitoring agent written in Go, designed to run continuously on low-resource devices such as Raspberry Pi.
 
