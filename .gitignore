@@ -1,0 +1,34 @@
+# Binaries
+
+monitor-agent
+monitor-loadtest
+
+# Load test output
+
+loadtest*.csv
+
+# Go build artifacts
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+
+*.test
+
+# Coverage
+
+coverage.out
+coverage.html
+
+# IDE / editor
+
+.vscode/*
+!.vscode/settings.json
+
+# macOS
+
+.DS_Store
